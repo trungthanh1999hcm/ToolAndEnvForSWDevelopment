@@ -26,7 +26,8 @@ namespace Practice_02
                 factor = 2;
             }
             // TODO: if employee is Expert, set factor = 3
-            // hi
+            // Đỗ Thanh Trung - 17DTHQA1
+
             var salary = BASIC_SALARY * years * factor;
 
             return salary;
