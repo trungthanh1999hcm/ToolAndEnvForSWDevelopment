@@ -27,7 +27,6 @@ namespace Practice_02
             }
             // TODO: if employee is Expert, set factor = 3
             // hi
-
             var salary = BASIC_SALARY * years * factor;
 
             return salary;
